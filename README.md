@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/heIsThePirate/react-typescript-npm-starter.git">
+  <a href="https://github.com/heIsThePirate/react-typescript-npm-starter">
     <img src="images/react-logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -27,7 +27,7 @@
   <p align="center">
     A template repository that can be used to quickly setup the boilerplate code for publishing a new react package/library/component to npm.
     <br />
-    <a href="https://github.com/heIsThePirate/react-typescript-npm-starter.git/issues">Report a Bug</a>
+    <a href="https://github.com/heIsThePirate/react-typescript-npm-starter/issues">Report a Bug</a>
   </p>
 </div>
 
@@ -95,22 +95,22 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [@heIsThePirate](mohitsingh1997@gmail.com)
 
-Project Link: [https://github.com/heIsThePirate/react-typescript-npm-starter.git](https://github.com/heIsThePirate/react-typescript-npm-starter.git)
+Project Link: [https://github.com/heIsThePirate/react-typescript-npm-starter](https://github.com/heIsThePirate/react-typescript-npm-starter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/heIsThePirate/vimeo-helpers.svg?style=for-the-badge
-[contributors-url]: https://github.com/heIsThePirate/react-typescript-npm-starter.git/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/heIsThePirate/vimeo-helpers.svg?style=for-the-badge
-[forks-url]: https://github.com/heIsThePirate/react-typescript-npm-starter.git/network/members
-[stars-shield]: https://img.shields.io/github/stars/heIsThePirate/vimeo-helpers.svg?style=for-the-badge
-[stars-url]: https://github.com/heIsThePirate/react-typescript-npm-starter.git/stargazers
-[issues-shield]: https://img.shields.io/github/issues/heIsThePirate/vimeo-helpers.svg?style=for-the-badge
-[issues-url]: https://github.com/heIsThePirate/react-typescript-npm-starter.git/issues
-[license-shield]: https://img.shields.io/github/license/heIsThePirate/vimeo-helpers.svg?style=for-the-badge
-[license-url]: https://github.com/heIsThePirate/react-typescript-npm-starter.git/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/heIsThePirate/react-typescript-npm-starter.svg?style=for-the-badge
+[contributors-url]: https://github.com/heIsThePirate/react-typescript-npm-starter/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/heIsThePirate/react-typescript-npm-starter.svg?style=for-the-badge
+[forks-url]: https://github.com/heIsThePirate/react-typescript-npm-starter/network/members
+[stars-shield]: https://img.shields.io/github/stars/heIsThePirate/react-typescript-npm-starter.svg?style=for-the-badge
+[stars-url]: https://github.com/heIsThePirate/react-typescript-npm-starter/stargazers
+[issues-shield]: https://img.shields.io/github/issues/heIsThePirate/react-typescript-npm-starter.svg?style=for-the-badge
+[issues-url]: https://github.com/heIsThePirate/react-typescript-npm-starter/issues
+[license-shield]: https://img.shields.io/github/license/heIsThePirate/react-typescript-npm-starter.svg?style=for-the-badge
+[license-url]: https://github.com/heIsThePirate/react-typescript-npm-starter/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mohitsingh97
 [product-screenshot]: images/screenshot.png

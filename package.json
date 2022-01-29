@@ -1,0 +1,8 @@
+{
+  "name": "react-typescript-npm-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/heIsThePirate/react-typescript-npm-starter.git",
+  "author": "heIsThePirate <mohitsingh1997@gmail.com>",
+  "license": "MIT"
+}

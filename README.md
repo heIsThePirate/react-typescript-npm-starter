@@ -25,17 +25,15 @@
 <h3 align="center">react-typescript-npm-starter</h3>
 
   <p align="center">
-    A template repository that can be used to quickly setup the boilerplate code for publishing a new react library/component to npm.
+    A template repository that can be used to quickly setup the boilerplate code for publishing a new react package/library/component to npm.
     <br />
     <a href="https://github.com/heIsThePirate/react-typescript-npm-starter.git/issues">Report a Bug</a>
   </p>
 </div>
 
 <br />
-<br />
 
 ## Pre-requisites
-<br />
 
 * A github account
 
@@ -43,19 +41,15 @@
 
 * A cup of coffee (or not!)
 
-<br />
 
 <!-- GETTING STARTED -->
 ## Getting Started
-<br />
 
 ```sh
 git clone https://github.com/heIsThePirate/react-typescript-npm-starter.git
 ```
-<br />
 
 ## Usage
-<br />
 
 Fork this repo or choose `Use this template`, clone it to your local computer, and edit the `package.json` along with every other required file to match your project.
 Write the code for your package in TypeScript and Sass, compile it, and publish it to [npm](https://npmjs.com).
@@ -89,19 +83,15 @@ npm version [patch | minor | major]
 ```sh
 npm publish
 ```
-<br/>
 
 <!-- LICENSE -->
 ## License
-<br />
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<br />
 
 <!-- CONTACT -->
 ## Contact
-<br />
 
 [@heIsThePirate](mohitsingh1997@gmail.com)
 

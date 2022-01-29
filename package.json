@@ -2,7 +2,7 @@
   "name": "react-typescript-npm-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "A template repository that can be used to quickly setup the boilerplate code for publishing a new react library/component to npm.",
+  "description": "A template repository that can be used to quickly setup the boilerplate code for publishing a new react package/library/component to npm.",
   "repository": "https://github.com/heIsThePirate/react-typescript-npm-starter.git",
   "author": "heIsThePirate",
   "license": "MIT",
